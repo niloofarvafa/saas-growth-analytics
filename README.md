@@ -49,4 +49,11 @@ This framework enables founders and growth teams to:
 
 - Add real dataset  
 - Build cohort retention model  
-- Publish Power BI dashboard screenshots  
+- Publish Power BI dashboard screenshots
+
+****
+## 📊 Key Insights
+
+- Customers on month-to-month contracts show significantly higher churn.
+- Simulated CAC highlights acquisition cost sensitivity.
+- Churn distribution suggests retention should be prioritised over aggressive acquisition.
