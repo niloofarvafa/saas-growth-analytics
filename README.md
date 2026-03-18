@@ -57,3 +57,12 @@ This framework enables founders and growth teams to:
 - Customers on month-to-month contracts show significantly higher churn.
 - Simulated CAC highlights acquisition cost sensitivity.
 - Churn distribution suggests retention should be prioritised over aggressive acquisition.
+
+## 📊 Sample Output
+
+=== Churn Distribution ===  
+No     0.73  
+Yes    0.27  
+
+=== Estimated CAC ===  
+Estimated CAC: 13.52 €
